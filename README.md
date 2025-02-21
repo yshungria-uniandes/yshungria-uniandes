@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yojan S. Hungría</h1>
 <h3 align="center">A passionate Full Stack Developer from Colombia</h3>
 
-- 🔭 I’m currently working on **I’m currently working on growing my skills with Python, JavaScript, React.js, Flask, and SQL, building dynamic and user-centered web applications.**
+- 🔭 **I’m currently working on growing my skills with Python, JavaScript, React.js, Flask, and SQL, building dynamic and user-centered web applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
